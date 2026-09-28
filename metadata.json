@@ -1,0 +1,6 @@
+{
+  "name": "AI Website Lead Leak Detector",
+  "description": "Production-grade SaaS platform that audits business websites for technical, SEO, UX, conversion, and AI search visibility leaks that cost leads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
